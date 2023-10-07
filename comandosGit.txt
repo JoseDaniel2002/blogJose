@@ -1,0 +1,3 @@
+git add .   -- Para agregar todos los cambios del proyecto
+git commit -m "Mensaje"   -- Para confirmar los cambios agregados
+git push -- Para subir los cambios confirmados
